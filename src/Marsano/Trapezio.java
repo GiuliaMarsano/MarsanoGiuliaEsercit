@@ -28,7 +28,7 @@ public class Trapezio {
 	 */
 	public int area(int B,int b,int h) {
 		int area;
-		area=B+b*h/2; //motivo errore: formula corretta=> (B+b)*h/2
+		area=(B+b)*h/2; //motivo errore: formula corretta=> (B+b)*h/2
 		return area;
 	}
 	

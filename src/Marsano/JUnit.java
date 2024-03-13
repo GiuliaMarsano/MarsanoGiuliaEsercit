@@ -13,7 +13,7 @@ class JUnit {
 		Trapezio t = new Trapezio();
 		assertEquals(2.5, t.area(3,2,1)); //sintetico
 	}
-	
+	/
 	@Test
 	void test1() {
 		//fail("Not yet implemented");
