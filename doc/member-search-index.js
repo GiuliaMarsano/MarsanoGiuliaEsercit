@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"Marsano","c":"Trapezio","l":"area(int, int, int)","u":"area(int,int,int)"},{"p":"Marsano","c":"Trapezio","l":"main(String[])","u":"main(java.lang.String[])"},{"p":"Marsano","c":"Trapezio","l":"Trapezio()","u":"%3Cinit%3E()"}];updateSearchResults();
